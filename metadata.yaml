@@ -1,0 +1,44 @@
+_repo: Edaville-Railroad-b-The-Cranberry-Belt_75376
+_version: 0.0.1
+contributor:
+  photographers:
+  - agent_name: Atwood, Ellis D. (Ellis Dexter)
+    alias: Atwood, Ellis Dexter
+    birthdate: 1889
+    deathdate: 1950
+    gutenberg_agent_id: '57960'
+    url: http://www.gutenberg.org/2009/agents/57960
+  - agent_name: Hosmer, Cyrus
+    birthdate: 1933
+    deathdate: 2017
+    gutenberg_agent_id: '57954'
+    url: http://www.gutenberg.org/2009/agents/57954
+creator:
+  author:
+    agent_name: Moody, Linwood W.
+    birthdate: 1905
+    deathdate: 1983
+    gutenberg_agent_id: '57310'
+    url: http://www.gutenberg.org/2009/agents/57310
+description: ''
+gutenberg_issued: '2025-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75376'
+language: en
+pgterms:marc905: 20220628032754moody
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aSouth Carver, Massachusetts :$bEllis D. Atwood, $c1947.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Edaville Railroad -- History'
+- !lcsh 'Narrow gauge railroads -- Massachusetts -- South Carver'
+- !lcc 'F001'
+- !lcc 'TF'
+- GITenberg
+title: 'Edaville Railroad : $b The Cranberry Belt'
+url: http://www.gutenberg.org/ebooks/75376
