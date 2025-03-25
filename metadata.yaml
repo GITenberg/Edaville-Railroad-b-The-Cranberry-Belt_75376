@@ -13,6 +13,9 @@ contributor:
     deathdate: 2017
     gutenberg_agent_id: '57954'
     url: http://www.gutenberg.org/2009/agents/57954
+covers:
+- cover_type: archival
+  image_path: 75376-h/images/backcover.jpg
 creator:
   author:
     agent_name: Moody, Linwood W.
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '57310'
     url: http://www.gutenberg.org/2009/agents/57310
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75376#Edaville-Railroad-b-The-Cranberry-Belt
 gutenberg_issued: '2025-02-14'
 gutenberg_type: Text
 identifiers:
